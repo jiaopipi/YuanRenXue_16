@@ -1,4 +1,3 @@
-
 var _0x4c28 = [
 	"Rtsed",
 	"SUrST",
@@ -1149,7 +1148,3 @@ var _0x4c28 = [
 	  var p_m = btoa(p_s);
 	  return [p_s,p_m]
   }
-	  
-  
-
-module.exports=get_m;
